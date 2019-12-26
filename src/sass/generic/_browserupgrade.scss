@@ -1,0 +1,11 @@
+.browserupgrade,.no-js__message {
+  display: block;
+  background: tomato;
+  padding: 2rem;
+  margin: 0 0 1rem;
+  z-index: 99;
+  font-weight: bold;
+}
+.js-enabled .no-js__message{
+  display: none;
+}
